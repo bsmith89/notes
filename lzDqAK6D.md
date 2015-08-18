@@ -1,7 +1,7 @@
 Meeting with Tom 2015-08-18
 =====
 
-Topics:
+## Topics ##
 -   _mcrA_
     -   Clone libraries
     -   Illumina
