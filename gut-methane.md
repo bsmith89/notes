@@ -20,13 +20,14 @@ bibliography: /Users/bjsmith/Documents/Literature/BibTeX/mcrA.bib
 
 ## [@Levitt1987] ##
 
--   > Less than 20% of carbohydrate remins unabsorbed in people consuming a
+-   > Less than 20% of carbohydrate remains unabsorbed in people consuming a
     > typical Western diet
     -   This serves as a substrate for fermentation
     -   White rice, apparently, was entirely absorbed (based on H2 production?)
     -   Levitt also found that various fibers (Cellulose, lignin, gum arabic,
         locust bean gum, and pectin) all result in little or no increase in H2
         production (and presumably cannot be degraded?) (see Figure 6)
+    -   (?) What portion of carbohydrate remains un-degraded in feces?
 
 ## [@Levitt2006] ##
 
