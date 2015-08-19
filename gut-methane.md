@@ -38,11 +38,19 @@ Gut hydrogen economy
 -   > The remaining 34% of the adult population had appreciable breath methane
     > concentrations of up to 80 ppm (mean, 15.2 ppm; median, 11.8 ppm).
 
--   > How- ever, bacterial culture studies subsequently showed that feces of
+-   > How-ever, bacterial culture studies subsequently showed that feces of
     > such nonproducers have an average log10 concen- tration of methanogens of
     > 4.9 vs 9.5 in producers.
     -   Therefore the authors think that "non-producers" probably fill out that
         distribution on the low end, and _are_ producing methane, just at
         sub-detectable levels.
 
--   
+-   > we and others subsequently have observed frequent conversion of CH4
+    > producers to nonproducer status and vice versa.
+    -   No citation given
+
+-   > fasting breath methane concentrations tend to be high relative to peak
+    > levels (ie, no or only modest increases, usually 50%, are observed after
+    > ingestion of rapidly fermented, non-absorbable carbohydrates such as
+    > lactulose which routinely cause 5- to 10-fold increases in breath
+    > H2 concentrations).
