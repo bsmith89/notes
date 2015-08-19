@@ -30,6 +30,19 @@ Gut hydrogen economy
 
 -   > Virtually all children under 5 years of age and 66% of the adult
     > population did not exhale appreciable quantities of CH4
--   Nobody under age 5 produces breath methane
--   Individuals can flip-flop between producers/non-producers
--   Nearly everyone has methanogens? (but some just have fewer than 10^5?)
+    -   Is this related to physiology of the gut (likely) or lack of colonization?
+    -   This does not deviate appreciably from numbers 30 years before.
+        -   Does this mean that antibiotic use and changes to diet aren't a big
+            deal to methanogens?
+
+-   > The remaining 34% of the adult population had appreciable breath methane
+    > concentrations of up to 80 ppm (mean, 15.2 ppm; median, 11.8 ppm).
+
+-   > How- ever, bacterial culture studies subsequently showed that feces of
+    > such nonproducers have an average log10 concen- tration of methanogens of
+    > 4.9 vs 9.5 in producers.
+    -   Therefore the authors think that "non-producers" probably fill out that
+        distribution on the low end, and _are_ producing methane, just at
+        sub-detectable levels.
+
+-   
