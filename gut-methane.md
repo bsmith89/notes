@@ -5,6 +5,8 @@ bibliography: ~/Documents/Literature/BibTeX/mcrA.bib
 
 ## [@Carbonero2012] ##
 
+this[@Carbonero2012]
+
 -   Three H2 producing pathways (see figure 2)
     -   Only (1) is inhibited by H2
         -   How is this?  Both (1) and (3) enerate H2 through the oxidation of
