@@ -1,5 +1,6 @@
 ---
 title: Gut hydrogen economy
+bibliography: ~/Documents/Literature/BibTeX/mcrA.bib
 ...
 
 ## [@Carbonero2012] ##
@@ -48,7 +49,7 @@ title: Gut hydrogen economy
 
 -   > we and others subsequently have observed frequent conversion of CH4
     > producers to nonproducer status and vice versa.
-    -   No citation given
+    -   No citation given :-/
 
 -   > fasting breath methane concentrations tend to be high relative to peak
     > levels (ie, no or only modest increases, usually 50%, are observed after
