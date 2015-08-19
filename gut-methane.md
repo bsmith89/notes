@@ -1,7 +1,3 @@
----
-title: something else but (gut hydrogen ec)
-...
-
 Gut hydrogen economy
 =====
 
