@@ -1,6 +1,6 @@
 ---
 title: Gut hydrogen economy
-bibliography: ~/Documents/Literature/BibTeX/mcrA.bib
+bibliography: /Users/bjsmith/Documents/Literature/BibTeX/mcrA.bib
 ...
 
 ## [@Carbonero2012] ##
