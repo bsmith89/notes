@@ -3,7 +3,8 @@ title: Gut hydrogen economy
 bibliography: /Users/bjsmith/Documents/Literature/BibTeX/mcrA.bib
 ...
 
-## [@Carbonero2012] ##
+## Carbonero2012 ##
+[@Carbonero2012]
 
 -   Three H2 producing pathways (see figure 2)
     -   Only (1) is inhibited by H2
@@ -17,8 +18,27 @@ bibliography: /Users/bjsmith/Documents/Literature/BibTeX/mcrA.bib
             H2 environments?  All of the other fermentation products
             (propionate and acetate, at least) are downstream of that first
             substrate oxidation step...
+-   Greater removal of hydrogen shifts fermentation towards the creation
+    of more oxidized byproducts
+    -   Is butyrate more oxidized than acetate? (surely not!)
+-   Multiple environments in the colon
+    -   Right (ascending) colon: more acidic
+        -   colonized by reductive acetogens, perhaps
+    -   Left (descending, distal) colon: more neutral
+    -   What about micro-niches?
+-   Hydrogenogen (presumably fermenter) diversity and niche assignment
+    has not been well studied.
+    -   > Thus, it seems that colonic H2 is produced mainly by members of the
+        > Firmicutes and much less by members of the Bacteroidetes.
+    -   Can we target hydrogenase enzymes in a molecular survey?
+-   > Acetogenesis has been postulated to be a less important hydrogenotrophic
+    > pathway in the colon than methano-nesis and sulphate reduction
+    > because both the conversion of H2 and CO2 into CH4 and sulphate
+    > reduction are thermodynamically more favourable than reductive
+    > acetogenesis.
 
-## [@Levitt1987] ##
+## Levitt1987 ##
+[@Levitt1987]
 
 -   > Less than 20% of carbohydrate remains unabsorbed in people consuming a
     > typical Western diet
@@ -29,7 +49,8 @@ bibliography: /Users/bjsmith/Documents/Literature/BibTeX/mcrA.bib
         production (and presumably cannot be degraded?) (see Figure 6)
     -   (?) What portion of carbohydrate remains un-degraded in feces?
 
-## [@Levitt2006] ##
+## Levitt2006 ##
+[@Levitt2006]
 
 -   > Virtually all children under 5 years of age and 66% of the adult
     > population did not exhale appreciable quantities of CH4
