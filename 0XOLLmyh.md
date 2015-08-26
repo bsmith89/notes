@@ -40,30 +40,36 @@ section](#variables-assignment-and-arithmatic)
 ### Assign variables with an equals sign ###
 
 ```python
+
 weight_kg = 55
 print weight_kg
 
 print 'weight in pounds:', 2.2 * weight_kg
 print 'tar weight:', weight_kg - 1.656
 print 'each piece (of 5) weighs:', weight_kg / 5.0
+
 ```
 
 ### Variables are like sticky notes ###
 
 ```python
+
 weight_kg = 57.5
 
 print 'weight in kilograms is now:', weight_kg
+
 ```
 
 ### Evaluation happens at the time of assignment ###
 
 ```python
+
 weight_lb = 2.2 * weight_kg
 weight_kg = 25
 
 print 'weight_kg is now:', weight_kg
 print 'but weight_lb has not changed:', weight_lb
+
 ```
 
 ### Check you understanding ###
@@ -72,10 +78,12 @@ Draw diagrams showing what variables refer to what values after each statement
 in the following program:
 
 ```python
+
 mass = 47.5
 age = 122
 mass = mass * 2.0
 age = age - 20
+
 ```
 
 
@@ -85,6 +93,7 @@ age = age - 20
 ### Lists are a way to store multiple values ###
 
 ```python
+
 odd_numbers = [1, 3, 5, 7]
 print odd_numbers
 
@@ -93,10 +102,22 @@ print odd_numbers
 ### Indexing Lists ###
 
 ```python
+
 names = ['Newton', 'Turing', 'Darwing']
 
 print names[0]
 print names[1]
 print names[2]
+
+print names[0:2]
+
+```
+
+### Assigning to Lists ###
+
+```python
+
+names[2] = 'Darwin'
+print names
 
 ```
