@@ -1,4 +1,7 @@
-2015-08-27-unh Python Lesson Outline
+---
+title: 2015-08-27-unh Python Lesson Outline
+
+---
 
 # Setup #
 
