@@ -6,7 +6,7 @@ title: 2015-08-27-unh Python Lesson Outline
 # Setup #
 
 -   Make sure that before lunch everyone has installed Anaconda python
-    and run the http://bsmith89.github.io/2015-08-27-unh/setup/index.html
+    and run the <http://bsmith89.github.io/2015-08-27-unh/setup/index.html>
     test scripts.
 -   (TD) Install anaconda python2.7 distribution
 -   (TD) Put note in etherpad for students to download the
@@ -119,7 +119,6 @@ a_name[4] = 'z'
 
 names.append('Tesla')
 print names
-
 ```
 
 ### Variables referencing lists ###
@@ -208,7 +207,6 @@ In python, you ask the question "is x equal to y" with `x == y`.
 The value of that statement depends on the values of `x` and `y`.
 
 ```python
-
 print 6 == 6
 
 x = 6
@@ -217,30 +215,25 @@ z = '6'
 print x == y
 print x > y
 print x <= x
-
 ```
 
 ### Booleans logic: `and` and `or` ###
 
 ```python
-
 print x == z
 print x == int(z)
 print (x == z) or (x == int(z))
-
 ```
 
 ### Anatomy of an If-statement ###
 
 ```python
-
 num = 37
 if num > 100:
     print 'greater than 100'
 else:
     print 'not greater than 100'
 print 'done'
-
 ```
 
 The `else` part is not necessary.
@@ -250,7 +243,6 @@ What if we want to do something else if `num` _is_ greater than 25?
 We _could_ do this:
 
 ```python
-
 num = 37
 if num > 100:
     print 'greater than 100'
@@ -259,7 +251,6 @@ else:
         print 'greater than 25'
     print 'not greater than 100'
 print 'done'
-
 ```
 
 But this is messy and it's cleaner to use an `elif` block, which means
@@ -267,7 +258,6 @@ the same thing.
 
 
 ```python
-
 num = 37
 if num > 100:
     print 'greater than 100'
@@ -276,9 +266,48 @@ elif num > 25:
 else:
     print 'not greater than 25'
 print 'done'
+```
 
+### Check your understanding ###
+
+What will be printed if you run this code? Why did you pick this answer?
+
+```python
+if 4 > 5:
+    print 'A'
+elif 4 == 5:
+    print 'B'
+elif 4 < 5:
+    print 'C'
 ```
 
 
 
+### Libraries and Plotting ###
+
+While the _language_ python is powerful, the most useful part for you may be
+the tools and software that have been built with it.
+
+While we've already shown you some of the words and short sentences that can
+be made with python, let's take a look at entire libraries of work that
+have already been constructed.
+
+In python, the syntax to load a package is `import <package>`.
+Let's import one of the most useful packages and play with it a bit.
+
+```python
+import numpy
+
+data = numpy.loadtxt(fname='inflammation-01.csv', delimiter=',')
+print data
+```
+
+-   `numpy` is a python package that we've already installed
+-   `import numpy` loads it into our program so that we can use everything
+    inside of that package
+-   `loadtxt` is a function written in the `numpy` package
+-   `numpy.loadtxt` means "the function named `loadtxt` which belongs to
+    `numpy`" (the dot means, "an attribute of").
+-   `fname` and `delimiter` are two parameters that we're giving to loadtxt
+-   We call the function with its parameters and assign the result to `data`.
 
