@@ -89,7 +89,7 @@ odd_numbers = [1, 3, 5, 7]
 print odd_numbers
 ```
 
-### Indexing Lists ###
+### Indexing lists ###
 
 ```python
 names = ['Newton', 'Turing', 'Darwing']
@@ -104,7 +104,7 @@ names[1]
 print names[0:2]
 ```
 
-### Assigning and Appending ###
+### Assigning and appending ###
 
 ```python
 names[2] = 'Darwin'
@@ -119,7 +119,7 @@ print names
 
 ```
 
-### Variables Referencing Lists ###
+### Variables referencing lists ###
 
 ```python
 those_same_names = names
@@ -172,4 +172,46 @@ for some_name in names:
 print "That's all of the names!"
 ```
 
-(Anatomy of a for-loop)
+### Anatomy of a loop ###
+
+### Counting things with loops ###
+
+### Iterators: briefly ###
+
+### Challenge question ###
+
+Exponentiation is built into Python:
+
+```python
+print 5 ** 3
+125
+```
+
+Write a loop that calculates the same result as 5 ** 3 using multiplication
+(and without exponentiation).
+
+
+
+
+## Making Choices ##
+
+### Booleans ###
+
+While `=` is the assignment operator, we often use it in common writing to mean
+"is equal to".
+
+In python, you ask the question "is x equal to y" with `x == y`.
+
+The value of that statement depends on the values of `x` and `y`.
+
+```python
+
+print 6 == 6
+
+x = 6
+y = 7
+z = '6'
+print x == y
+
+
+```
