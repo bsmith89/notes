@@ -215,6 +215,70 @@ x = 6
 y = 7
 z = '6'
 print x == y
-
+print x > y
+print x <= x
 
 ```
+
+### Booleans logic: `and` and `or` ###
+
+```python
+
+print x == z
+print x == int(z)
+print (x == z) or (x == int(z))
+
+```
+
+### Anatomy of an If-statement ###
+
+```python
+
+num = 37
+if num > 100:
+    print 'greater than 100'
+else:
+    print 'not greater than 100'
+print 'done'
+
+```
+
+The `else` part is not necessary.
+
+What if we want to do something else if `num` _is_ greater than 25?
+
+We _could_ do this:
+
+```python
+
+num = 37
+if num > 100:
+    print 'greater than 100'
+else:
+    if num > 25:
+        print 'greater than 25'
+    print 'not greater than 100'
+print 'done'
+
+```
+
+But this is messy and it's cleaner to use an `elif` block, which means
+the same thing.
+
+
+```python
+
+num = 37
+if num > 100:
+    print 'greater than 100'
+elif num > 25:
+    print 'greater than 25'
+else:
+    print 'not greater than 25'
+print 'done'
+
+```
+
+
+
+
