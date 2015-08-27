@@ -100,12 +100,18 @@ names = ['Newton', 'Turing', 'Darwing']
 print names[0]
 print names[1]
 print names[2]
+print names[-1]
 
 i = 1
-names[1]
+names[i]
 
 print names[0:2]
 ```
+
+My favorite mnemonic for python list access:
+The index points at the divider between cells.
+When you point at two dividers you designate the range between them
+...a slice.
 
 ### Assigning and appending ###
 
@@ -141,7 +147,7 @@ What is printed by the following
 ```python
 a_list = ["what's", "in" "a", "name"]
 
-print a_list[3][3]
+print a_list[3][1:3]
 ```
 
 
@@ -151,7 +157,7 @@ print a_list[3][3]
 
 ### Motivation ###
 
-What if we want to print everything in names?
+What if we want to print everything in `names`?
 
 ```python
 print names
@@ -283,7 +289,11 @@ elif 4 < 5:
 
 
 
-### Libraries and Plotting ###
+
+
+## Libraries and Plotting ##
+
+### What's the big idea? ###
 
 While the _language_ python is powerful, the most useful part for you may be
 the tools and software that have been built with it.
@@ -310,4 +320,171 @@ print data
     `numpy`" (the dot means, "an attribute of").
 -   `fname` and `delimiter` are two parameters that we're giving to loadtxt
 -   We call the function with its parameters and assign the result to `data`.
+
+### Introspection ###
+
+```python
+type(data)  # It's *not* a list
+dir(data)
+```
+
+### Working with Numpy `ndarrays` ###
+
+```python
+
+print data.shape
+
+print "Top right corner:", data[0,0]
+print "Middle value:", data[20, 30]
+
+print "Small subset:", data[0:5,0:10]
+print data[:5,:5].shape
+```
+
+Notice that numpy arrays work kinda like lists, but with extra functionality.
+
+That's not always the case, but the designers tried to keep things intuitive.
+
+Definitely inspired by similar functionality in Matlab, R, etc.
+
+```python
+smaller = data[10:15,15:25]
+print smaller.shape
+print smaller
+print smaller * 2
+print smaller - 5
+```
+
+```python
+print smaller.max()
+
+print smaller.max(axis=1)
+```
+
+### Challenge Question ###
+
+How would you find the mean inflammation each day of the first 10
+individuals in this dataset?
+
+### Plotting with Matplotlib ###
+
+```python
+import matplotlib.pyplot
+
+image = matplotlib.pyplot.imshow(data)
+matplotlib.pyplot.show(image)
+```
+
+```python
+%matplotlib inline
+```
+
+```python
+# In separate cells plot mean, max, min
+avg_infl = data.mean(axis=0)
+avg_plot = matplotlib.pyplot.plot(avg_infl)
+
+# Then combine it all together with
+fig = matplotlib.pyplot.figure(figsize=(10.0, 3.0))
+axes1 = fig.add_subplot(1, 3, 1)
+
+axes1.plot(avg_infl)
+axes1.set_ylabel('Average')
+# Etc...
+```
+
+### Challenge Question ###
+
+Can you modify the code to display all three plots on top of one-another?
+Do you have any intuition about how matplotlib might handle something like that?
+
+
+
+
+## Writing Your Own Functions ##
+
+At this point we've used a few functions (called with parameters in perentheses).
+Python functions are kinda like mathematical functions.
+Given a set of inputs, they do something, and/or give back the output.
+One powerful way to use functions are as formula.
+
+### Converting Temperature Units ###
+
+-   Encapsulation / `return`ing
+-   `int`s vs `float`s
+-   Composing functions
+-   Syntax errors
+-   Reading debug traces, debugging
+-   Calling a function with positional vs keyword arguments
+-   Why?
+
+### Challenge Question ###
+
+1.  Read the code below, and (without running it) try to identify what the
+    errors are.
+
+2.  Run the code, and read the error message. What type of NameError do you
+    think this is? In other words, is it a string with no quotes, a
+    misspelled variable, or a variable that should have been defined but
+    was not?
+
+3.  Fix the error.
+
+4.  Repeat steps 2 and 3, until you have fixed all the errors.
+
+```
+for number in range(10):
+    # use a if the number is a multiple of 3, otherwise use b
+    if (Number % 3) == 0:
+        message = message + a
+    else:
+        message = message + "b"
+print message
+```
+
+### Extracting Data from CSVs ###
+
+-   Working with Text Files (`open`, iteration)
+-   Useful string operations
+
+### Centering Data ###
+
+-   (Implicitly, introduce testing on a small dataset)
+-   Add a new argument to center on something other than 0
+-   Make that an optional argument
+-   Documentation (`help()`)
+    -   Check out `help(numpy.loadtxt)`
+
+
+### Challenge Question ###
+
+1.  Write a function rescale that takes an array as input and returns a
+    corresponding array of values scaled to lie in the range 0.0 to 1.0.
+
+    Hint: If L and H are the lowest and highest values in the original array,
+    then the replacement for a value v should be (v − L)/(H − L).
+
+    Be sure that this function has documentation.
+
+### Writing "Correct" Code ###
+
+-   Test on a dataset where we _know_ the answer
+-   Write unit tests
+    -   `if` statements are goood
+    -   But `assert` is made for this
+-   Check on state _while_ the program is running
+
+### Super-Duper Challenge Question ###
+
+1.  Re-write your rescale function to take optional 'a' and 'b' parameters
+    and rescales to that range.  Is the formula you came up with correct?
+
+2.  Write one unit test to check your answer.
+
+3.  Add one assert statement to your function to check intermediate state.
+
+## Capstone ##
+
+
+
 
