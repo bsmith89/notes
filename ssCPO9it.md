@@ -10,15 +10,15 @@ Learner Feedback 2015-08-27-unh
 -   Frustrating that some things don't work on windows
 -   have us give you nods if we are following
 -   Maybe just check in if people are following
--   It may (or may not) be useful to have larger scripts taht we just look at and/or modify
+-   It may (or may not) be useful to have larger scripts that we just look at and/or modify
 -   Very slow progression
 -   Diversity in knowledge forces the workshop to go slower but it's necessary
 -   Wish we could go over bash profile issues
 -   maybe another exercise or two on our own or with neighbors
--   started a bit slow, and really looking foward to python
+-   started a bit slow, and really looking forward to python
 -   started a bit slow
 -   [just a dash]
--   It may be helpful to leve the scipt up while we're looking at the website on the screen
+-   It may be helpful to leave the script up while we're looking at the website on the screen
 -   could go a little faster
 
 #### Good ####
@@ -73,11 +73,11 @@ Learner Feedback 2015-08-27-unh
 
 #### Bad ####
 
--   I work with proprietary data format: so I can't use open github :(
+-   I work with proprietary data format: so I can't use open Github :(
 -   didn't use git reset
 -   difficult to follow, I think because git is not as intuitive as python
 -   It would have been nice to see ways that Git relates to real projects.  I had trouble seeing how it would be useful.
--   - Very usefull to share and edit documents.  - Would be good to know how to do it with .m files
+-   - Very useful to share and edit documents.  - Would be good to know how to do it with .m files
 -   Just need more time and try more problems
 -   Try not to use "alias" [referring to some git aliases Ivan had set up]
 -   Now I want margaritas in the afternoon [referring to Ivan's guacamole recipe example]
@@ -88,11 +88,11 @@ Learner Feedback 2015-08-27-unh
 
 -   Chalk board work helped!  Nice progression through material.
 -   The lesson went at a good speed.
--   Looking forward to using git+github
--   Great into to Git.  Goood to have problems to do in class.
+-   Looking forward to using git+Github
+-   Great into to Git.  Good to have problems to do in class.
 -   Pace was great.
 -   Very nice!
--   Having the etherpad support + notes is really helpful!
+-   Having the Etherpad support + notes is really helpful!
 -   Such a powerful program and very good intro
 -   Very informative and could follow for the most part never having worked with Git before.
 -   Iangagnon [a name?] really useful stuff
@@ -106,12 +106,12 @@ Learner Feedback 2015-08-27-unh
 -   [a dash]
 -   Just a lot of information
 -   extend both days by 30 min to get more time for last session
--   Consider doing the project differently.  Maybe you can have a pre-written code in spyder?  Too many commands presented without explanation of what exactly they do.  I wish there was more on making "pretty" plots with axes, legends, error bars, etc.
+-   Consider doing the project differently.  Maybe you can have a pre-written code in Spyder?  Too many commands presented without explanation of what exactly they do.  I wish there was more on making "pretty" plots with axes, legends, error bars, etc.
 -   The ultimate goal of the challenge questions could be explained better so know what we're trying to do
 
 #### Good ####
 
--   The workship covered a good range of useful things
+-   The workshop covered a good range of useful things
 -   Thanks!  I learned a ton.
 -   nice workshop
 -   good job! Thank you.
