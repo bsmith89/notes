@@ -18,8 +18,12 @@ deactivate() {
 export VIRTUAL_ENV=$CONDA_ENV_PATH
 EOF
 
-ln -s $HOME/miniconda/env/py3/python3.4 .venv/bin/python3.4
+ln -s $HOME/miniconda/env/py3/python3.4 .venv/bin/python
 ln -s $HOME/miniconda/env/py3/python3.4 .venv/bin/python3
+ln -s $HOME/miniconda/env/py3/python3.4 .venv/bin/python3.4
+ln -s $HOME/miniconda/env/py3/pip .venv/bin/pip
+ln -s $HOME/miniconda/env/py3/pip .venv/bin/pip3
+ln -s $HOME/miniconda/env/py3/pip .venv/bin/pip3.4
 
 ```
 
