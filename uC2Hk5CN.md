@@ -6,3 +6,5 @@ Committee meeting presentation
 -   This is an opportunity
 -   Some "basic ecology" is happening here
 -   Does it fit into my original proposal in some way?  No need to shoe-horn it.
+-   list of accomplishments this year
+-   what NOT doing from proposal
