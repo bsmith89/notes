@@ -5,3 +5,4 @@ Committee meeting presentation
 -   fully funded project
 -   This is an opportunity
 -   Some "basic ecology" is happening here
+-   Does it fit into my original proposal in some way?  No need to shoe-horn it.
