@@ -1,5 +1,11 @@
-Committee meeting presentation
+---
+title: 2015 Committee Meeting
+author: Byron J. Smith
 
+...
+
+
+# Outline #
 -   Technical limitations blocked my earlier work
 -   still interested in proposal stuff, but they'll have to be adjusted
 -   fully funded project
