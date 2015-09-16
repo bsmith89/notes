@@ -1,5 +1,5 @@
 ---
-title: 'DDIG'
+title: "DDIG: Association of the gut microbiome with life extension in mice"
 author: Byron J. Smith
 
 bibliography: /Users/bjsmith/Documents/Literature/BibTeX/BIO525.bib
