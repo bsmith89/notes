@@ -29,6 +29,11 @@ Week 1:
 
 Week 2:
 -   Intro slides
+    -   Logistics:
+        -   3 weeks, two labs going in parallel
+            1.  Culturing from ourselves, enriching on particular polysaccharides
+            2.  Spreading in order to enumerate, streaking for isolation
+    -   Relevant biology
     -   Why we're having them spread and streak
         -   Labs down the line
 
