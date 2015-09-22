@@ -25,3 +25,7 @@ Questions and Hypotheses for Longevity Project
     food-web?
 10. Does ACA have effects on bacterial amylases in the gut?
     -   Do they promote gram-negative growth, since they don't use amylases?
+11. Are the effects of ACA analagous to RS?
+    -   Treat mice with ACA and RS for short periods and compare the resulting
+        community shift.
+12. Do any compositional, metabolomic features correlate with longevity?
