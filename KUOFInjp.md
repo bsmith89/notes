@@ -4,7 +4,6 @@ List of projects I've ever worked on
 -   ML sequence diversity from sequencer error
 -   dN/dS to infer selection
     -   from shotgun libraries
-    -   antibiotic resistance in watersheds
 -   Phylogenetic correction using paired taxa
 -   16S copy number estimation on tree
 -   hydrogenotrophy ecological phenomena
@@ -13,3 +12,11 @@ List of projects I've ever worked on
     -   relative fitness of strain missing cydA
 -   nitrogen cycling in GLBRC soils
 -   neutral models for microbial communities
+
+List of projects I've ever thought about working on
+
+-   Adjusting for compositional data
+-   Higher level selection on ecosystems
+-   antibiotic resistance in watersheds
+-   Microbial population dynamics in flowing systems (like the gut, or
+    watersheds)
