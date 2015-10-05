@@ -34,6 +34,9 @@ Questions and Hypotheses for Longevity Project
 12. Resistant starch vs acarbose, do they have the same effect on the microbiome,
     butyrate?
 
+13. Inulin!
+14. Effect on realized longevity in ITP mice
+
 
 
 -   (?) What statistical approach to ask "are two communities consistantly
