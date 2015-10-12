@@ -20,18 +20,18 @@ title: HW#3 Draft Questions
                                                      (20 bases)
     ```
 
-    A.  Label the ends of each template strand as 5' and 3'. [1 point]
+    A.  Label the ends of each template strand as 5' and 3'. **[1 point]**
 
-    B.  How long will the resulting PCR amplicon be?  Show your work. [1 point]
+    B.  How long will the resulting PCR amplicon be?  Show your work. **[1 point]**
 
 2.  If you start with 10 copies of the template, how many copies are possible
-        after 10 PCR cycles?  Show your work. [1 point]
+        after 10 PCR cycles?  Show your work. **[1 point]**
 
 3.  What is the purpose of adding buffer to a PCR mix?  Remember, a buffered
-    solution is able to self-regulate pH.  Why is the important for PCR? [1 point]
+    solution is able to self-regulate pH.  Why is this important for PCR? **[1 point]**
 
 4.  Which of the following short primers will bind most tightly to the template?
-    What is your reasoning? [1 point]
+    What is your reasoning? **[1 point]**
 
     ```
         TEMPLATE:       5'-...GGTACCCCTGA...-3'
