@@ -1,4 +1,6 @@
-HW#3 Draft Questions
+---
+title: HW#3 Draft Questions
+---
 
 1.  In the schematic of a PCR reaction below, the base position at one end of each
     primer binding site is indicated.  Both primers are 20 nucleotides long.
