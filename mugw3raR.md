@@ -1,6 +1,6 @@
 EEB525 HW10
 
-1.
+1.  Popular press articles related to my work.
     -   <http://www.scientificamerican.com/article/fiber-famished-gut-microbes-linked-to-poor-health1/>
         -   Best: Detailed look at an interesting topic
         -   Worst: May give a false impression of some topics in microbilogy
@@ -14,7 +14,7 @@ EEB525 HW10
         -   Worst: Repeats many "truisms" from the literature,
             some of which may be poorly supported.
 
-2.
+2.   Concepts or ideas useful in my science.
     -   Shotgun sequencing:
 
         Shotgun sequencing is like shredding an
@@ -48,7 +48,7 @@ EEB525 HW10
         you'll share, and how similar you'll look.
 
 
-2.
+2.  Jargon for my field.
     -   Community structure: the variety and abundance of species
     -   Resource availability: the amount of food
     -   Gnotobiotic mice: mouse with only the bacteria we intend
