@@ -50,10 +50,10 @@ A.  G     G - T C G     C C T A     C G A - C     A
 6.  G G   T C T C C T A A G A   C A
 
 
-G G T C T C C T A A G A C A
-G G T C G C C T A C G A C T
-G G T G C C T A C A C A
-G G T C C C T A G A C T
-G G T C C C C T A G G A C A
-G G C T G C C T A C A G C A
+6.  G G T C T C C T A A G A C A
+3.  G G T C G C C T A C G A C T
+1.  G G T G C C T A C A C A
+4.  G G T C C C T A G A C T
+5.  G G T C C C C T A G G A C A
+2.  G G C T G C C T A C A G C A
 ```
