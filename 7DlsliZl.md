@@ -1,3 +1,7 @@
+---
+title: Alignment Exercise
+---
+
 ```
 A.  N00 N01 ___ N02 N03 N04 N05 N06 N07 N08 M04 M03 M02 ___ M01 N09
 1.  N00 N01 ___ N02 xxx N04 N05 N06 N07 N08 M04 xxx M02 ___ M01 N09
