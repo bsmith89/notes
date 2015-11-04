@@ -1,7 +1,5 @@
----
 Questions and Hypotheses for Longevity Project
-
-...
+---
 
 1.  How does ACA affect the microbiome
     -   Community composition
