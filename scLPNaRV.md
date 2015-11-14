@@ -1,9 +1,8 @@
 Ericsson Data Anlaysis
 
--   OTU1
 -   Diversity differences
 -   Community wide differences between treatments, sites
--   LEFSE?
+-   Enrichment of OTU1
 
 -   Treat x Site effects
 -   Treat x Gender effects
