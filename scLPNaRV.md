@@ -11,3 +11,5 @@ Ericsson Data Anlaysis
 -   Various multiple regressor models for OTU1/3/etc.
 -   Summarize the OTU level effects that I've already picked out
     -   For how many is ACA positive/negative, magnitude of the effect, etc.
+
+-   What is the diversity within OTU000001?
