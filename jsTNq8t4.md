@@ -1,12 +1,16 @@
 Lab Meeting Org
 
+## Will Go ##
 Arvind
 Tom
-Nick
 Clegg
-Jessica
 Kwi
 Steve S.
 Alex
 Brendan
 Chris W.
+
+## Have Gone ##
+Byron
+Nick
+
