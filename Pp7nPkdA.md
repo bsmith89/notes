@@ -1,11 +1,13 @@
-Morning:
-Group #1   Josh, Waleed, Avery, Mohammad
-Group #2   Kim, Daniel, Swag, Aria
-Group #3   Kriti, AJ, Judy, Zoe
-Group #4   Cole, Alena, Josiah, Anna
-Group #5   Sreehari, Cameron, Marie, Ryan
+BIOLOGY 173 - 201
+Group #1   Joshua Sun, Waleed Al Rawi, Avery Lui, Mohammad Bazzi
+Group #2   Kim Nguyen, Daniel Borsuk, Sagarika Das, Aria Grabowski
+Group #3   Kriti Babu, AJ Warzecha, Joohee Suh, Zoe Goodrow
+Group #4   Cole Ritzema, Alena Olsen, Josiah Ault, Anna Yin
+Group #5   Sreehari Panicker, Cam Taylor, Marie Carp, Ryan Adams
 
-Afternoon
-Group #1   Daria, Victoria, Jensyn, Alex N.
-Group #2   Michelle, Sarrina, Lydia, An Pham
-Group #3   
+BIOLOGY 173 - 203
+Group #1   Daria Stelmak, Victoria Andriessen, Jensyn VanZalen, Alex Nickel
+Group #2   Michelle Shoshiev, Sarrina Patel, Lydia Weatherly, An Pham
+Group #3   Sara Hansen, Yuki Kurosu, Nicholas Wei, Christina Tang
+Group #4   Jenelle Rofe, Lexi Nylander, Christopher Stewart, Jonah Peryam
+Group #5   Anna Munaco, ML Ryan, Jonathan Minion (???), Ali Abdallah (???)
