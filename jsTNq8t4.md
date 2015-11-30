@@ -14,3 +14,7 @@ Chris W.
 Byron
 Nick
 
+
+## Upcoming Papers ##
+
+Koropatkin2012
