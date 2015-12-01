@@ -21,3 +21,5 @@ Ericsson Data Anlaysis
 
 
 ## Problems with removing sequences ##
+
+2216481 going into OTU clustering
