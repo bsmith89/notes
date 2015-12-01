@@ -18,3 +18,6 @@ Ericsson Data Anlaysis
 -   Which of these also respond to ACA?  (and which _don't_ respond within ACA,
     as in, which are already raised at UM)
 -   Consider using random forests, LEFSE for this
+
+
+## Problems with removing sequences ##
