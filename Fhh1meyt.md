@@ -8,12 +8,12 @@ Tremblant Packing List
 -   Sweaters (2)
 -   Socks (5)
 -   Underwear (5)
--   
+-   PJs
 
 ### Shoes ###
 
 -   Boots
--   Flip-flops
+-   Slippers
 
 ## Ski Clothes Equipment ##
 
@@ -26,12 +26,22 @@ Tremblant Packing List
 -   Ski pants
 -   Fleece
 -   Turtle skin
+-   Leggings
 
 ## Toiletries ##
 
 -   Soap
 -   Contact solution
 -   Contact case
+-   Extra contacts
+-   Toothpaste
+-   Floss
+-   Gum
+-   Chap stick
+-   Deoderant
+-   Cologne
+-   Q-tips
+-   Bathing suit
 
 ### Tools ###
 
@@ -44,9 +54,9 @@ Tremblant Packing List
 ## Food ##
 
 -   Farm loaf?
--   Eggs
 -   Oil/butter
--   
+-   Salt
+-   Spices for chicken
 
 ### For the Road ###
 
@@ -77,8 +87,18 @@ Tremblant Packing List
 -   Laptop charger
 -   Cards
 -   Backgammon
+-   Earbuds
+-   Sunglasses
+-   Watch
+-   Shot glasses
+-   Pen/paper
+-   Kindle
 
 ## TODO ##
 
 -   Get cash (Canadian?)
 -   Grocery shopping
+
+## Tara's Stuff ##
+
+-   Sleeping bag
